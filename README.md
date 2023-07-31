@@ -1,4 +1,3 @@
-[<img src='[images/Github_banner.png](https://cutewallpaper.org/24/computer-animated-gif/computer-554db-gif-37560-find-f8116-on-50346-gifer.gif)' alt="banner"></img>](https://cutewallpaper.org/24/computer-animated-gif/computer-554db-gif-37560-find-f8116-on-50346-gifer.gif)
 <h1 align="center">Hi 👋, I'm Santiago Triviño</h1>
 <h3 align="center">Motivatered backend developer</h3>
 
