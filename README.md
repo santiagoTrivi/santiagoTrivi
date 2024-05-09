@@ -7,7 +7,7 @@ Passionate back-end developer and systems engineering student with experience in
 
 :large_orange_diamond: Skills:  Nodejs | Expressjs | Nestjs | Jest | 
 
-:large_orange_diamond: Database: MySQL | MongoDB |
+:large_orange_diamond: Database: MySQL | MongoDB | PostgreSql |
 
 :large_orange_diamond: Developing tools: Git | Docker | 
 
