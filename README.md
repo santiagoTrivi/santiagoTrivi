@@ -5,11 +5,11 @@ Passionate back-end developer and systems engineering student with experience in
 
 :large_orange_diamond: Programming languages: TypeScript | JavaScript | Python | 
 
-:large_orange_diamond: Skills:  Nodejs | Expressjs | Nestjs | Jest | 
+:large_orange_diamond: Skills:  Nodejs | Expressjs | Nestjs | Jest | Devops
 
-:large_orange_diamond: Database: MySQL | MongoDB | PostgreSql |
+:large_orange_diamond: Database: PostgreSql | MySQL | MongoDB | 
 
-:large_orange_diamond: Developing tools: Git | Docker | 
+:large_orange_diamond: Developing tools: Git | Docker | Bash | Terraform | Jenkins
 
 
   - 📫 How to reach me **santiagocarvajal103@gmail.com**
