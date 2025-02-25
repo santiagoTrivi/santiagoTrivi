@@ -3,13 +3,13 @@
 
 Passionate back-end developer and systems engineering student with experience in building REST APIs and designing reliable databases. I enjoy the challenge of back-end development and working collaboratively with a team to bring innovative solutions to complex problems.
 
-:large_orange_diamond: Programming languages: TypeScript | JavaScript | Python | 
+:large_blue_diamond: Programming languages: TypeScript | JavaScript | Python | 
 
-:large_orange_diamond: Skills:  Nodejs | Expressjs | Nestjs | Jest | Devops
+:large_blue_diamond: Skills:  Nodejs | Expressjs | Nestjs | Jest | Devops
 
-:large_orange_diamond: Database: PostgreSql | MySQL | MongoDB | 
+:large_blue_diamond: Database: PostgreSql | MySQL | MongoDB | 
 
-:large_orange_diamond: Developing tools: Git | Docker | Bash | Terraform | Jenkins
+:large_blue_diamond: Developing tools: Git | Docker | Bash | Terraform | Jenkins
 
 
   - 📫 How to reach me **santiagocarvajal103@gmail.com**
