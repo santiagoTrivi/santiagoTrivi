@@ -3,7 +3,7 @@
 
 Passionate back-end developer and systems engineering student with experience in building REST APIs and designing reliable databases. I enjoy the challenge of back-end development and working collaboratively with a team to bring innovative solutions to complex problems.
 
-:large_blue_diamond: Programming languages: TypeScript | JavaScript | Python | 
+:large_blue_diamond: Programming languages: TypeScript | JavaScript | 
 
 :large_blue_diamond: Skills:  Nodejs | Expressjs | Nestjs | Jest | Devops
 
