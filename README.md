@@ -11,8 +11,9 @@
 ### 💡 Professional Profile
 I am a **Systems Engineer** focused on building robust, scalable backend services and managing cloud-native environments. With a strong foundation in software architecture and DevOps practices, I specialize in transforming complex business requirements into reliable, automated systems.
 
-- 🏗️ **Expertise:** Scalable Microservices, Database Optimization, and Infrastructure as Code (IaC).
-- 🚀 **Core Stack:** Node.js (NestJS/Express), TypeScript, and Kubernetes.
+- 🖥️ **Backend Expertise:** Architecture, RESTful APIs, and System Design.
+- 🗄️ **Data Strategy:** Advanced SQL/NoSQL modeling, caching strategies, and query optimization.
+- ⚙️ **DevOps Integration:** Streamlining deployments via Docker, Kubernetes, and CI/CD.
 - 📫 **Contact:** [santiagocarvajal103@gmail.com](mailto:santiagocarvajal103@gmail.com)
 - 🌐 **Portfolio:** [santiagotrivi.github.io](https://santiagotrivi.github.io/santiagoTrivino-folio/)
 
